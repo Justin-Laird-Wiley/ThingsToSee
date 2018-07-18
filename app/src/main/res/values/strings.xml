@@ -1,0 +1,162 @@
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Eccentrica</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_trader_joes">Trader Joe\'s</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_night_walking">Night Walking</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_birding_spots">Birding Spots</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_closed_rr_stations">Closed RR Stations</string>
+
+    <!-- String for content description of image -->
+    <string name="content_description">image for word</string>
+
+    <!-- Places to Walk at Night -->
+    <!-- Pequosette Park -->
+    <string name="pequosette_park">Pequosette Park</string>
+    <string name="pequosette_park_comment">Large open field showing the sky at night</string>
+
+    <!-- Fernald State School -->
+    <string name="fernald">Fernald State School</string>
+    <string name="fernald_comment">Abandoned state school \-\- super creepy</string>
+
+    <!-- Fitchburg Line Train Signals -->
+    <string name="train_signal">Clematis Brook Train Signals</string>
+    <string name="train_signal_comment">Great place to watch the trains go by</string>
+
+    <!-- Waverley Station -->
+    <string name="waverley">Waverley Station</string>
+    <string name="waverley_comment">Deep-cut commuter rail station</string>
+
+    <!-- St. Patrick's Cemetery -->
+    <string name="st_pats_cemetery">St. Patrick\'s Cemetery</string>
+    <string name="st_pats_cemetery_comment">Great cut-through between streets</string>
+
+    <!-- Beaver Brook Reservation -->
+    <string name="beaver_brook_res">Beaver Brook Reservation</string>
+    <string name="beaver_brook_res_comment">DCR park with nice walking trails</string>
+
+    <!-- Harvard University Athletic Fields -->
+    <string name="harvard_athletic">Harvard Athletic Fields</string>
+    <string name="harvard_athletic_comment">Harvard\'s well-groomed fields</string>
+
+    <!-- Trader Joe's locations -->
+    <!-- Alewife -->
+    <string name="alewife">Alewife</string>
+    <string name="alewife_comment">The Trader Joe\'s that changed my life when it opened</string>
+
+    <!-- Memorial Drive -->
+    <string name="mem_drive">Memorial Drive</string>
+    <string name="mem_drive_comment">First Trader Joe\'s in Cambridge</string>
+
+    <!-- Western Ave. -->
+    <string name="western_ave">Western Ave.</string>
+    <string name="western_ave_comment">Newest Trader Joe\'s in the area</string>
+
+    <!-- Arlington Heights -->
+    <string name="arlington_heights">Arlington Heights</string>
+    <string name="arlington_heights_comment">The nice local Trader Joe\'s in Arlington</string>
+
+    <!-- West Newton -->
+    <string name="west_newton">West Newton</string>
+    <string name="west_newton_comment">Newton needs a Trader Joe\'s</string>
+
+    <!-- Coolidge Corner -->
+    <string name="coolidge_corner">Coolidge Corner</string>
+    <string name="coolidge_corner_comment">I used to go here a lot; not anymore</string>
+
+    <!-- Rt. 1 -->
+    <string name="rt_1">Rt. 1</string>
+    <string name="rt_1_comment">Great place to stop heading north</string>
+
+    <!-- Rt. 114 -->
+    <string name="rt_114">Rt. 114</string>
+    <string name="rt_114_comment">Good stop on the way back from the North Shore</string>
+
+    <!-- Birdwatching spots -->
+    <!-- Mt. Auburn Cemetery -->
+    <string name="mt_auburn_cemetery">Mt. Auburn Cemetery</string>
+    <string name="mt_auburn_comment">The mecca for warblers in the spring</string>
+
+    <!-- Beaver Brook Swamp -->
+    <string name="beaver_brook">Beaver Brook Swamp</string>
+    <string name="beaver_brook_comment">Great place to see red-winged blackbirds</string>
+
+    <!-- Squantum Puddle -->
+    <string name="squantum_puddle">Squantum Puddle</string>
+    <string name="squantum_puddle_comment">Great spot of shore birds</string>
+
+    <!-- Plum Island -->
+    <string name="plum_island">Plum Island</string>
+    <string name="plum_island_comment">Shore birds, sea ducks, etc.</string>
+
+    <!-- Burrage Pond -->
+    <string name="burrage_pond">Burrage Pond</string>
+    <string name="burrage_pond_comment">Former cranberry bogs</string>
+
+    <!-- Mt. Wachusetts -->
+    <string name="mt_wachusetts">Mt. Wachusetts</string>
+    <string name="mt_wachusetts_comment">Central Mass mountain - great for hawk watching</string>
+
+    <!-- Cape Ann -->
+    <string name="cape_ann">Cape Ann</string>
+    <string name="cape_ann_comment">Great place to see wintering sea ducks</string>
+
+    <!-- Closed Train Stations on Fitchburg Line -->
+    <!-- Clematis Brook Station -->
+    <string name="clematis_brook">Clematis Brook</string>
+    <string name="clematis_brook_comment">On Clematis Ave. in Waltham</string>
+
+    <!-- Beaver Brook Station -->
+    <string name="beaver_brook_sta">Beaver Brook Station</string>
+    <string name="beaver_brook_sta_comment">Right next to the lumber yard; platform still there</string>
+
+    <!-- River View -->
+    <string name="river_view">River View Station</string>
+    <string name="river_view_comment">Probably had a nice view of the Charles River</string>
+
+    <!-- West Acton -->
+    <string name="west_acton">West Acton Station</string>
+    <string name="west_acton_comment">It\'s a shame they don\'t still have a station here</string>
+
+    <!-- West Littleton Station -->
+    <string name="west_littleton">West Littleton</string>
+    <string name="west_littleton_comment">The wonderful station building is still there</string>
+
+    <!-- Willows Station -->
+    <string name="willows">Willows</string>
+    <string name="willows_comment">Now the main intermodal site on Pan-Am Southern</string>
+
+    <!-- Gardner Station -->
+    <string name="gardner_stop">Gardner</string>
+    <string name="gardner_stop_comment">Too far up the hill \-\- had to go</string>
+
+    <!-- Towns -->
+    <string name="watertown">Watertown, MA</string>
+    <string name="belmont">Belmont , MA</string>
+    <string name="waltham">Waltham, MA</string>
+    <string name="quincy">Quincy, MA</string>
+    <string name="newburyport">Newburyport, MA</string>
+    <string name="hanson">Hanson, MA</string>
+    <string name="princeton">Princeton, MA</string>
+    <string name="gloucester_rockport">Gloucester/Rockport, MA</string>
+    <string name="cambridge">Cambridge, MA</string>
+    <string name="brookline">Brookline, MA</string>
+    <string name="saugus">Saugus, MA</string>
+    <string name="peabody">Peabody, MA</string>
+    <string name="arlington">Arlington, MA</string>
+    <string name="newton">Newton, MA</string>
+    <string name="allston">Allston, MA</string>
+    <string name="gardner">Gardner, MA</string>
+    <string name="acton">Acton</string>
+    <string name="littleton">Littleton, MA</string>
+    <string name="ayer">Ayer, MA</string>
+
+</resources>
